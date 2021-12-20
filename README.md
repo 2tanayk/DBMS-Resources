@@ -14,3 +14,4 @@ A compilation of resources for DBMS.
 ### Entity–Relationship Data Model
 - [Introduction to the ER model](https://www.geeksforgeeks.org/introduction-of-er-model/)
 - [Drawing an ER model](https://www.guru99.com/er-diagram-tutorial-dbms.html)
+- [Entity participation in ER](https://www.tutorialspoint.com/Entity-Relationship-Participation-in-Database)

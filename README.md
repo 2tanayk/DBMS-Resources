@@ -9,3 +9,4 @@ A compilation of resources for DBMS.
 - [Data abstraction in DBMS](https://www.tutorialspoint.com/what-is-data-abstraction-in-dbms)
 - [Data independence in DBMS](https://www.javatpoint.com/dbms-data-independence)
 - [DBMS system architecture](https://www.javatpoint.com/dbms-architecture)
+- [The database administrator](https://www.geeksforgeeks.org/dba-full-form/)

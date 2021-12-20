@@ -12,3 +12,4 @@ A compilation of resources for DBMS.
 - [The database administrator](https://www.geeksforgeeks.org/dba-full-form/)
 
 ### Entity–Relationship Data Model
+- [Introduction to the ER model](https://www.geeksforgeeks.org/introduction-of-er-model/)

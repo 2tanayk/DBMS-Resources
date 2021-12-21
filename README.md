@@ -30,4 +30,6 @@ A compilation of resources for DBMS.
 - [Datatypes in SQL](https://www.w3schools.com/sql/sql_datatypes.asp)
 - DDL Commands
     - [CREATE](https://www.w3schools.com/sql/sql_create_table.asp)
-    - [DROP](https://www.w3schools.com/sql/sql_drop_table.asp)
+    - [DROP and TRUNCATE](https://www.w3schools.com/sql/sql_drop_table.asp)
+    - [ALTER](https://www.w3schools.com/sql/sql_alter.asp)
+    - [RENAME](https://popsql.com/learn-sql/mysql/how-to-rename-a-table-in-mysql)

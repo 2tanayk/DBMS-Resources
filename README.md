@@ -28,8 +28,11 @@ A compilation of resources for DBMS.
 - [SQL tutorials (follow all the parts)](https://www.w3schools.com/sql/)
 - [SQL | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
 - [Datatypes in SQL](https://www.w3schools.com/sql/sql_datatypes.asp)
-- DDL Commands
+- DDL commands
     - [CREATE](https://www.w3schools.com/sql/sql_create_table.asp)
     - [DROP and TRUNCATE](https://www.w3schools.com/sql/sql_drop_table.asp)
     - [ALTER](https://www.w3schools.com/sql/sql_alter.asp)
     - [RENAME](https://popsql.com/learn-sql/mysql/how-to-rename-a-table-in-mysql)
+
+- DQL commands
+    - [SELECT](https://www.w3schools.com/sql/sql_select.asp) 

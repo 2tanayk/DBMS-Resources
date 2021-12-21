@@ -16,3 +16,5 @@ A compilation of resources for DBMS.
 - [Drawing an ER model](https://www.guru99.com/er-diagram-tutorial-dbms.html)
 - [Entity participation in ER](https://www.tutorialspoint.com/Entity-Relationship-Participation-in-Database)
 - [Extended ER(EER)](https://www.geeksforgeeks.org/generalization-specialization-and-aggregation-in-er-model/)
+
+### Relational Model and Relational Algebra

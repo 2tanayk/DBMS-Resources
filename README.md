@@ -25,3 +25,4 @@ A compilation of resources for DBMS.
 - [Mapping from ER model to relational model](https://www.geeksforgeeks.org/mapping-from-er-model-to-relational-model/)
 
 ### Structured Query Language (SQL) 
+- [SQL tutorials (follow all the parts)](https://www.w3schools.com/sql/)

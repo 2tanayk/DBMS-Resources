@@ -19,3 +19,4 @@ A compilation of resources for DBMS.
 
 ### Relational Model and Relational Algebra
 - [Introduction to relational model in DBMS](https://www.geeksforgeeks.org/relational-model-in-dbms/)
+- [Relational schema in DBMS](https://www.geeksforgeeks.org/relation-schema-in-dbms/)

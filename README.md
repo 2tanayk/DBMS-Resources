@@ -36,3 +36,5 @@ A compilation of resources for DBMS.
 
 - DQL commands
     - [SELECT](https://www.w3schools.com/sql/sql_select.asp) 
+- DML commands
+    - [INSERT](https://www.w3schools.com/sql/sql_insert.asp) 

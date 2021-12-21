@@ -26,3 +26,4 @@ A compilation of resources for DBMS.
 
 ### Structured Query Language (SQL) 
 - [SQL tutorials (follow all the parts)](https://www.w3schools.com/sql/)
+- [SQL | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)

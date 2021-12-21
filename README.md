@@ -22,3 +22,4 @@ A compilation of resources for DBMS.
 - [Introduction of relational model and codd rules in DBMS](https://www.geeksforgeeks.org/introduction-of-relational-model-and-codd-rules-in-dbms/)
 - [Relational schema in DBMS](https://www.geeksforgeeks.org/relation-schema-in-dbms/)
 - [Types of keys in relational model](https://www.geeksforgeeks.org/types-of-keys-in-relational-model-candidate-super-primary-alternate-and-foreign/)
+- [Mapping from ER model to relational model](https://www.geeksforgeeks.org/mapping-from-er-model-to-relational-model/)

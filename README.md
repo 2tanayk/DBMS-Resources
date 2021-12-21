@@ -30,3 +30,4 @@ A compilation of resources for DBMS.
 - [Datatypes in SQL](https://www.w3schools.com/sql/sql_datatypes.asp)
 - DDL Commands
     - [CREATE](https://www.w3schools.com/sql/sql_create_table.asp)
+    - [DROP](https://www.w3schools.com/sql/sql_drop_table.asp)

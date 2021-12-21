@@ -39,3 +39,4 @@ A compilation of resources for DBMS.
 - DML commands
     - [INSERT](https://www.w3schools.com/sql/sql_insert.asp) 
     - [UPDATE](https://www.w3schools.com/sql/sql_update.asp)
+    - [DELETE](https://www.w3schools.com/sql/sql_delete.asp)

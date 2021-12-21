@@ -18,3 +18,4 @@ A compilation of resources for DBMS.
 - [Extended ER(EER)](https://www.geeksforgeeks.org/generalization-specialization-and-aggregation-in-er-model/)
 
 ### Relational Model and Relational Algebra
+- [Introduction to relational model in DBMS](https://www.geeksforgeeks.org/relational-model-in-dbms/)

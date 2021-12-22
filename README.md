@@ -55,3 +55,5 @@ A compilation of resources for DBMS.
 - [Joins in SQL(follow all the subsequent parts)](https://www.w3schools.com/sql/sql_join.asp)
 - [Nested queries in SQL](https://www.geeksforgeeks.org/nested-queries-in-sql/)
 - [Triggers in SQL](https://www.geeksforgeeks.org/sql-trigger-student-database/)
+
+### Relational Database Design 

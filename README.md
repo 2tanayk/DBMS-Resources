@@ -40,6 +40,8 @@ A compilation of resources for DBMS.
     - [INSERT](https://www.w3schools.com/sql/sql_insert.asp) 
     - [UPDATE](https://www.w3schools.com/sql/sql_update.asp)
     - [DELETE](https://www.w3schools.com/sql/sql_delete.asp)
+- DCL commands
+    - [GRANT and REVOKE](https://www.geeksforgeeks.org/difference-between-grant-and-revoke/)
 
 - [EXPLAIN in SQL](https://www.geeksforgeeks.org/explain-in-sql/)
 - [Constraints in SQL](https://www.w3schools.com/sql/sql_constraints.asp)

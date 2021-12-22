@@ -50,3 +50,4 @@ A compilation of resources for DBMS.
 - [Aggregate functions in SQL](https://www.javatpoint.com/dbms-sql-aggregate-function)
 - [GROUP BY in SQL](https://www.w3schools.com/sql/sql_groupby.asp)
 - [HAVING in SQL](https://www.w3schools.com/sql/sql_having.asp)
+- [VIEW in SQL](https://www.w3schools.com/sql/sql_view.asp)

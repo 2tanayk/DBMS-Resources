@@ -28,6 +28,7 @@ A compilation of resources for DBMS.
 - [SQL tutorials (follow all the parts)](https://www.w3schools.com/sql/)
 - [SQL | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
 - [Datatypes in SQL](https://www.w3schools.com/sql/sql_datatypes.asp)
+- [Operators in SQL](https://www.w3schools.com/sql/sql_operators.asp)
 - DDL commands
     - [CREATE](https://www.w3schools.com/sql/sql_create_table.asp)
     - [DROP and TRUNCATE](https://www.w3schools.com/sql/sql_drop_table.asp)

@@ -57,4 +57,4 @@ A compilation of resources for DBMS.
 - [Triggers in SQL](https://www.geeksforgeeks.org/sql-trigger-student-database/)
 
 ### Relational Database Design 
-- [Concept of normalization]()
+- [Concept of normalization](https://github.com/2tanayk/DBMS-Resources/blob/main/normalization.md)

@@ -41,4 +41,5 @@ A compilation of resources for DBMS.
     - [UPDATE](https://www.w3schools.com/sql/sql_update.asp)
     - [DELETE](https://www.w3schools.com/sql/sql_delete.asp)
 
+- [EXPLAIN in SQL](https://www.geeksforgeeks.org/explain-in-sql/)
 - [Constraints in SQL](https://www.w3schools.com/sql/sql_constraints.asp)

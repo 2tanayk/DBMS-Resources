@@ -60,3 +60,5 @@ A compilation of resources for DBMS.
 - [Concept of normalization](https://github.com/2tanayk/DBMS-Resources/blob/main/normalization.md)
 - [Functional dependencies](https://www.geeksforgeeks.org/introduction-of-database-normalization/)
 - [Normal forms](https://github.com/2tanayk/DBMS-Resources/blob/main/nf.md)
+
+### Transactions Management and Concurrency and Recovery

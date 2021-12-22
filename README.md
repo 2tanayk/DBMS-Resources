@@ -48,3 +48,4 @@ A compilation of resources for DBMS.
 - [String functions in SQL](https://www.geeksforgeeks.org/sql-string-functions/)
 - [Set operations in SQL](https://www.javatpoint.com/set-operators-in-sql)
 - [Aggregate functions in SQL](https://www.javatpoint.com/dbms-sql-aggregate-function)
+- [GROUP BY in SQL](https://www.w3schools.com/sql/sql_groupby.asp)

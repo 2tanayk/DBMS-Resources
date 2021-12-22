@@ -58,3 +58,4 @@ A compilation of resources for DBMS.
 
 ### Relational Database Design 
 - [Concept of normalization](https://github.com/2tanayk/DBMS-Resources/blob/main/normalization.md)
+- [Normal forms](https://github.com/2tanayk/DBMS-Resources/blob/main/nf.md)

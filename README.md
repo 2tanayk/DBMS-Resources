@@ -51,3 +51,4 @@ A compilation of resources for DBMS.
 - [GROUP BY in SQL](https://www.w3schools.com/sql/sql_groupby.asp)
 - [HAVING in SQL](https://www.w3schools.com/sql/sql_having.asp)
 - [VIEW in SQL](https://www.w3schools.com/sql/sql_view.asp)
+- [Joins in SQL(follow all the subsequent parts)](https://www.w3schools.com/sql/sql_join.asp)

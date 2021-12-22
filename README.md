@@ -47,3 +47,4 @@ A compilation of resources for DBMS.
 - [Constraints in SQL](https://www.w3schools.com/sql/sql_constraints.asp)
 - [String functions in SQL](https://www.geeksforgeeks.org/sql-string-functions/)
 - [Set operations in SQL](https://www.javatpoint.com/set-operators-in-sql)
+- [Aggregate functions in SQL](https://www.geeksforgeeks.org/aggregate-functions-in-sql/)

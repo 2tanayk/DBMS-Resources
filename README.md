@@ -49,3 +49,4 @@ A compilation of resources for DBMS.
 - [Set operations in SQL](https://www.javatpoint.com/set-operators-in-sql)
 - [Aggregate functions in SQL](https://www.javatpoint.com/dbms-sql-aggregate-function)
 - [GROUP BY in SQL](https://www.w3schools.com/sql/sql_groupby.asp)
+- [HAVING in SQL](https://www.w3schools.com/sql/sql_having.asp)

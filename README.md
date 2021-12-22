@@ -45,3 +45,4 @@ A compilation of resources for DBMS.
 
 - [EXPLAIN in SQL](https://www.geeksforgeeks.org/explain-in-sql/)
 - [Constraints in SQL](https://www.w3schools.com/sql/sql_constraints.asp)
+- [String functions in SQL](https://www.geeksforgeeks.org/sql-string-functions/)

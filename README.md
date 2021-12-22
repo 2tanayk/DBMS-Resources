@@ -53,3 +53,4 @@ A compilation of resources for DBMS.
 - [HAVING in SQL](https://www.w3schools.com/sql/sql_having.asp)
 - [VIEW in SQL](https://www.w3schools.com/sql/sql_view.asp)
 - [Joins in SQL(follow all the subsequent parts)](https://www.w3schools.com/sql/sql_join.asp)
+- [Nested queries in SQL](https://www.geeksforgeeks.org/nested-queries-in-sql/)

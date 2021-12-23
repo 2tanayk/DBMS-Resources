@@ -62,3 +62,4 @@ A compilation of resources for DBMS.
 - [Normal forms](https://github.com/2tanayk/DBMS-Resources/blob/main/nf.md)
 
 ### Transactions Management and Concurrency and Recovery
+- [Transaction in DBMS](https://github.com/2tanayk/DBMS-Resources/blob/main/transaction.md)

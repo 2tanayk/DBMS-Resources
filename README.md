@@ -66,3 +66,5 @@ A compilation of resources for DBMS.
 - [Concurrency problems in DBMS transactions](https://github.com/2tanayk/DBMS-Resources/blob/main/concurrency.md)
 - [Concurrency control in DBMS](https://github.com/2tanayk/DBMS-Resources/blob/main/concurrency_control.md)
 - [Database recovery in DBMS](https://www.geeksforgeeks.org/database-recovery-techniques-in-dbms/)
+- [Deadlock in DBMS](https://www.geeksforgeeks.org/deadlock-in-dbms/)
+- [Wait-Die scheme vs Wound-Die scheme](https://stackoverflow.com/questions/32794142/what-is-the-difference-between-wait-die-and-wound-wait-deadlock-prevention-a)

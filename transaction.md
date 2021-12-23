@@ -7,4 +7,5 @@
 - [Conflict equivalent schedules with example(video)(hindi)](https://youtu.be/ckqDozxECp0)
 - [Conflict serializability and precedence graph(video)(hindi)](https://youtu.be/zv0ba0Iok1Y)
 - [Introduction to view serializability and why it is used(video)(hindi)](https://youtu.be/8LKM_RWeroM)
+- [Recoverability in DBMS](https://www.geeksforgeeks.org/recoverability-in-dbms/)
 - [Transaction in DBMS](https://www.tutorialspoint.com/dbms/dbms_transaction.htm)

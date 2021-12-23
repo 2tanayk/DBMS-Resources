@@ -63,3 +63,4 @@ A compilation of resources for DBMS.
 
 ### Transactions Management and Concurrency and Recovery
 - [Transaction in DBMS](https://github.com/2tanayk/DBMS-Resources/blob/main/transaction.md)
+- [Concurrency problems in DBMS transactions](https://github.com/2tanayk/DBMS-Resources/blob/main/concurrency.md)

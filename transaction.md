@@ -4,4 +4,5 @@
 - [Transaction states(video)(hindi)](https://youtu.be/ObwYFVLB_VI)
 - [What is Schedule | Serial Vs Parallel Schedule(video)(hindi)](https://youtu.be/1cbmhsSJRWc)
 - [Introduction to Serializability(video)(hindi)](https://youtu.be/s8QlJoL1G6w)
+- [Conflict equivalent schedules with example(video)(hindi)](https://youtu.be/ckqDozxECp0)
 - [Transaction in DBMS](https://www.tutorialspoint.com/dbms/dbms_transaction.htm)

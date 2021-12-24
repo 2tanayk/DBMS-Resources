@@ -43,6 +43,8 @@ A compilation of resources for DBMS.
     - [DELETE](https://www.w3schools.com/sql/sql_delete.asp)
 - DCL commands
     - [GRANT and REVOKE](https://www.geeksforgeeks.org/difference-between-grant-and-revoke/)
+- TCL commands
+    - [COMMIT, ROLLBACK and SAVEPOINT](https://www.studytonight.com/dbms/tcl-command.php) 
 
 - [EXPLAIN in SQL](https://www.geeksforgeeks.org/explain-in-sql/)
 - [Constraints in SQL](https://www.w3schools.com/sql/sql_constraints.asp)

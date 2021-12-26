@@ -73,8 +73,8 @@ A compilation of resources for DBMS.
 
 ### Miscellaneous
 - [Cascade in SQL](https://www.geeksforgeeks.org/mysql-on-delete-cascade-constraint/)
-- [WITH in SQL](www.geeksforgeeks.org/sql-with-clause/)
-- [Cursor in SQL](www.geeksforgeeks.org/what-is-cursor-in-sql/)
+- [WITH in SQL](https://www.geeksforgeeks.org/sql-with-clause/)
+- [Cursor in SQL](https://www.geeksforgeeks.org/what-is-cursor-in-sql/)
 - [ROLLUP in SQL](https://www.javatpoint.com/sql-server-rollup)
 
 ## Interview Preparation Materials

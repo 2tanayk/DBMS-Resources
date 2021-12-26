@@ -70,3 +70,7 @@ A compilation of resources for DBMS.
 - [Database recovery in DBMS](https://www.geeksforgeeks.org/database-recovery-techniques-in-dbms/)
 - [Deadlock in DBMS](https://www.geeksforgeeks.org/deadlock-in-dbms/)
 - [Wait-Die scheme vs Wound-Die scheme](https://stackoverflow.com/questions/32794142/what-is-the-difference-between-wait-die-and-wound-wait-deadlock-prevention-a)
+
+## Interview Preparation Materials
+- [DBMS MCQs](https://www.sanfoundry.com/1000-database-management-system-questions-answers/)
+- [DBMS MCQs(chapter wise)](https://www.sanfoundry.com/1000-database-management-system-questions-answers/#dbms-chapters)

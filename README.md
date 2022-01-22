@@ -76,6 +76,7 @@ A compilation of resources for DBMS.
 - [WITH in SQL](https://www.geeksforgeeks.org/sql-with-clause/)
 - [Cursor in SQL](https://www.geeksforgeeks.org/what-is-cursor-in-sql/)
 - [ROLLUP in SQL](https://www.javatpoint.com/sql-server-rollup)
+- [GROUP BY on multiple columns](https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns)
 
 ## Interview Preparation Materials
 - [DBMS MCQs](https://www.sanfoundry.com/1000-database-management-system-questions-answers/)

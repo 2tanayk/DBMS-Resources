@@ -80,3 +80,4 @@ A compilation of resources for DBMS.
 ## Interview Preparation Materials
 - [DBMS MCQs](https://www.sanfoundry.com/1000-database-management-system-questions-answers/)
 - [DBMS MCQs(chapter wise)](https://www.sanfoundry.com/1000-database-management-system-questions-answers/#dbms-chapters)
+- [50 SQL Query Questions and Answers for Practice](https://www.techbeamers.com/sql-query-questions-answers-for-practice/)

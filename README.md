@@ -79,6 +79,7 @@ A compilation of resources for DBMS.
 - [ROLLUP in SQL](https://www.javatpoint.com/sql-server-rollup)
 - [GROUP BY on multiple columns](https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns)
 - [MySQL LIMIT x,y](https://stackoverflow.com/questions/11963177/limit-5-10-returns-9-rows-in-mysql/46346501)
+- [Difference between Hierarchical, Network and Relational Data Model](https://www.geeksforgeeks.org/difference-between-hierarchical-network-and-relational-data-model/)
 
 ## Interview Preparation Materials
 - [DBMS MCQs](https://www.sanfoundry.com/1000-database-management-system-questions-answers/)

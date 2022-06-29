@@ -83,6 +83,7 @@ A compilation of resources for DBMS.
 - [What is Data Abstraction in DBMS and what are its three levels?](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
 - [The relational data model(video)](https://youtu.be/Q45sr5p_NmQ)
 - [Functional dependency in DBMS(video)](https://youtu.be/dR-jJimWWHA)
+- [Types of functional dependencies in DBMS](https://www.guru99.com/dbms-functional-dependency.html)
 
 ## Interview Preparation Materials
 - [DBMS MCQs](https://www.sanfoundry.com/1000-database-management-system-questions-answers/)

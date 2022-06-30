@@ -1,6 +1,7 @@
 ### Resources
 - [Introduction to Transaction Concurrency(video)(hindi)](https://youtu.be/t5hsV9lC1rU)
 - [ACID Properties of a Transaction(video)(hindi)](https://youtu.be/-GS0OxFJsYQ)
+- [Transaction States in DBMS](https://www.gatevidyalay.com/transaction-states-in-dbms/)
 - [Transaction states(video)(hindi)](https://youtu.be/ObwYFVLB_VI)
 - [What is Schedule | Serial Vs Parallel Schedule(video)(hindi)](https://youtu.be/1cbmhsSJRWc)
 - [Introduction to Serializability(video)(hindi)](https://youtu.be/s8QlJoL1G6w)

@@ -84,7 +84,7 @@ A compilation of resources for DBMS.
 - [The relational data model(video)](https://youtu.be/Q45sr5p_NmQ)
 - [Functional dependency in DBMS(video)](https://youtu.be/dR-jJimWWHA)
 - [Types of functional dependencies in DBMS](https://www.guru99.com/dbms-functional-dependency.html)
-- [Basic concept of normalization | Need of Normalization in DBMS](https://youtu.be/p-j9emhNVTg)
+- [Basic concept of normalization | Need of Normalization in DBMS(video)](https://youtu.be/p-j9emhNVTg)
 
 ## Interview Preparation Materials
 - [DBMS MCQs](https://www.sanfoundry.com/1000-database-management-system-questions-answers/)

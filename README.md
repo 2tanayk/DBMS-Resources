@@ -58,6 +58,7 @@ A compilation of resources for DBMS.
 - [Nested queries in SQL](https://www.geeksforgeeks.org/nested-queries-in-sql/)
 - [SQL Correlated Subqueries](https://www.geeksforgeeks.org/sql-correlated-subqueries/)
 - [Triggers in SQL](https://www.geeksforgeeks.org/sql-trigger-student-database/)
+- [Regex in SQL](https://www.geeksforgeeks.org/mysql-regular-expressions-regexp/)
 
 ### Relational Database Design 
 - [Concept of normalization](https://github.com/2tanayk/DBMS-Resources/blob/main/normalization.md)
